@@ -12,11 +12,13 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mr-keshavraj.mr-keshavraj&left_text=PROFILE%20VIEWS&left_color=%230d1117&right_color=%2300ADD8" height="28" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/Backend%20Developer-Evtaar%20Software%20Solution%20Pvt.%20Ltd-1E3A8A?style=for-the-badge&logo=go&logoColor=white" alt="Backend Developer at Evtaar Software Solution Pvt. Ltd"/>
-  <img src="https://img.shields.io/badge/Based%20in-Bangalore%2C%20India-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00ADD8" alt="Bangalore, India"/>
-</div>
+<p align="center">
+  <img src="https://hits.sh/github.com/mr-keshavraj.svg?style=for-the-badge&label=Profile%20Views&labelColor=555555&color=00ADD8" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Backend%20Developer-Evtaar%20Software%20Solution%20Pvt.%20Ltd.-1E3A8A?style=for-the-badge&logo=go&logoColor=white&labelColor=555555" alt="Backend Developer at Evtaar Software Solution Pvt. Ltd."/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Based%20in-Bangalore%2C%20India-1E3A8A?style=for-the-badge&logo=googlemaps&logoColor=00ADD8&labelColor=555555" alt="Based in Bangalore, India"/>
+</p>
 
 <br/>
 
@@ -38,7 +40,7 @@ func main() {
 	keshav := Developer{
 		Name:     "Keshav Raj",
 		Role:     "Golang Backend Developer",
-		Company:  "Evtaar Software Solution Pvt. Ltd",
+		Company:  "Evtaar Software Solution Pvt. Ltd.",
 		Location: "Bangalore, India 🇮🇳",
 		Focus: []string{
 			"Scalable REST APIs",
@@ -148,11 +150,31 @@ func main() {
 
 ---
 
-### 💼 Experience
+### 💼 Professional Experience
 
-<!-- TODO(Keshav): add dates and a one-line summary for each role; nothing here is guessed. -->
-- **Backend Developer — [Evtaar Software Solution Pvt. Ltd](https://github.com/EvtaarOrg)** · Bangalore, India · Go backend services with Gin <!-- TODO(Keshav): describe your work in your own words -->
-- **Backend Intern — Kenshi Labs Consultancy** · APIs, database management and backend work ([internship repo](https://github.com/mr-keshavraj/kenshi-labs-backend-internship))
+<!-- Sources: GitHub profile (Evtaar) and the Experience section of mr-keshav.netlify.app (QuantiqueMinds, Kenshi Labs). -->
+
+**Backend Developer** · [Evtaar Software Solution Pvt. Ltd.](https://github.com/EvtaarOrg)<br/>
+<sub>📍 Bangalore, India</sub> <!-- TODO(Keshav): add start date ("Mon YYYY – Present") -->
+
+- Building and maintaining Go backend services and REST APIs with Gin
+<!-- TODO(Keshav): add 1–2 bullets on what you own or shipped at Evtaar -->
+
+**Associate Full Stack Engineer** · QuantiqueMinds Pvt. Ltd.<br/>
+<sub>🗓️ September 2025</sub> <!-- TODO(Keshav): portfolio says "September 2025 – Present", but the GitHub profile lists Evtaar as current; add the end date -->
+
+- Developed HRMS applications with Go (Fiber) on the backend and Next.js/React on the frontend
+- Designed secure REST APIs with JWT authentication and role-based access control for multiple user hierarchies
+- Built HR modules for employee management, attendance tracking, leave management and payroll processing
+- Tuned MongoDB with aggregation pipelines and indexing, and deployed with Docker on AWS EC2
+
+**Associate Backend Engineer** · Kenshi Labs Consultancy Pvt. Ltd.<br/>
+<sub>🗓️ November 2024 – August 2025</sub> <!-- TODO(Keshav): confirm title; the GitHub repo is named "kenshi-labs-backend-internship" -->
+
+- Built backend services in Go (Fiber) with Next.js frontends
+- Developed HRMS payroll and compensation management with reports and analytics
+- Integrated the Razorpay payment gateway, including webhook handling for payment reconciliation
+- Built buyer-seller marketplace APIs with filtering, search and pagination, plus JWT and email-OTP authentication
 
 ---
 
@@ -171,9 +193,10 @@ func main() {
 ### 🤝 Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/keshavraj18" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-keshavraj18-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/keshavraj18/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-keshavraj18-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/KeshavR84485550" target="_blank"><img src="https://img.shields.io/badge/X-KeshavR84485550-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="mailto:contacttokeshavraj@gmail.com"><img src="https://img.shields.io/badge/Email-contacttokeshavraj-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Phone-%2B91--9162406872-2E7D32?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik02LjYyIDEwLjc5YTE1LjA1IDE1LjA1IDAgMCAwIDYuNTkgNi41OWwyLjItMi4yYTEgMSAwIDAgMSAxLjAyLS4yNCAxMS4zNiAxMS4zNiAwIDAgMCAzLjU3LjU3IDEgMSAwIDAgMSAxIDFWMjBhMSAxIDAgMCAxLTEgMUExNyAxNyAwIDAgMSAzIDRhMSAxIDAgMCAxIDEtMWgzLjVhMSAxIDAgMCAxIDEgMWMwIDEuMjUuMiAyLjQ1LjU3IDMuNTdhMSAxIDAgMCAxLS4yNSAxLjAyeiIvPjwvc3ZnPg==" alt="Phone: +91-9162406872"/>
   <a href="https://mr-keshav.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-mr--keshav.netlify.app-00ADD8?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
 </div>
 
