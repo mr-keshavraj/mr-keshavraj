@@ -8,14 +8,14 @@
 
 <div align="center">
   <a href="https://github.com/mr-keshavraj">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=620&lines=Golang+Backend+Developer;Building+Scalable+APIs+%26+Backend+Systems;Go+%C2%B7+Fiber+%C2%B7+PostgreSQL+%C2%B7+MongoDB+%C2%B7+Redis;Docker+%C2%B7+AWS+%C2%B7+REST+%C2%B7+WebSockets" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=620&lines=Golang+Backend+Developer;Building+Scalable+APIs+%26+Backend+Systems;Go+%C2%B7+Gin+%C2%B7+Fiber+%C2%B7+PostgreSQL+%C2%B7+MongoDB;Redis+%C2%B7+Docker+%C2%B7+AWS+%C2%B7+WebSockets" alt="Typing SVG"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mr-keshavraj&style=for-the-badge&color=00ADD8&label=PROFILE+VIEWS" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/Role-Backend%20Developer%20%40%20Evtaar-1E3A8A?style=for-the-badge&logo=go&logoColor=white" alt="Backend Developer at Evtaar"/>
-  <img src="https://img.shields.io/badge/Based%20in-Hyderabad%2C%20India-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00ADD8" alt="Hyderabad, India"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mr-keshavraj.mr-keshavraj&left_text=PROFILE%20VIEWS&left_color=%230d1117&right_color=%2300ADD8" height="28" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Backend%20Developer-Evtaar%20Software%20Solution%20Pvt.%20Ltd-1E3A8A?style=for-the-badge&logo=go&logoColor=white" alt="Backend Developer at Evtaar Software Solution Pvt. Ltd"/>
+  <img src="https://img.shields.io/badge/Based%20in-Bangalore%2C%20India-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00ADD8" alt="Bangalore, India"/>
 </div>
 
 <br/>
@@ -38,8 +38,8 @@ func main() {
 	keshav := Developer{
 		Name:     "Keshav Raj",
 		Role:     "Golang Backend Developer",
-		Company:  "Evtaar",
-		Location: "Hyderabad, India 🇮🇳",
+		Company:  "Evtaar Software Solution Pvt. Ltd",
+		Location: "Bangalore, India 🇮🇳",
 		Focus: []string{
 			"Scalable REST APIs",
 			"Backend systems & clean architecture",
@@ -47,7 +47,7 @@ func main() {
 			"Real-time services (WebSockets, game servers)",
 		},
 		Stack: []string{
-			"Go", "Fiber", "PostgreSQL", "MongoDB", "Redis",
+			"Go", "Gin", "Fiber", "PostgreSQL", "MongoDB", "Redis",
 			"Docker", "AWS", "JWT", "WebSockets", "Nakama",
 		},
 	}
@@ -64,6 +64,7 @@ func main() {
     <td width="150"><b>Backend</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=go,nodejs,python,java&perline=8" alt="Go, Node.js, Python, Java"/><br/>
+      <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white" alt="Gin"/>
       <img src="https://img.shields.io/badge/Fiber-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Fiber"/>
       <img src="https://img.shields.io/badge/REST%20APIs-1E3A8A?style=flat-square&logo=postman&logoColor=white" alt="REST APIs"/>
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
@@ -150,7 +151,7 @@ func main() {
 ### 💼 Experience
 
 <!-- TODO(Keshav): add dates and a one-line summary for each role; nothing here is guessed. -->
-- **Backend Developer — [Evtaar](https://github.com/EvtaarOrg)** · Go backend services <!-- TODO(Keshav): describe your work in your own words -->
+- **Backend Developer — [Evtaar Software Solution Pvt. Ltd](https://github.com/EvtaarOrg)** · Bangalore, India · Go backend services with Gin <!-- TODO(Keshav): describe your work in your own words -->
 - **Backend Intern — Kenshi Labs Consultancy** · APIs, database management and backend work ([internship repo](https://github.com/mr-keshavraj/kenshi-labs-backend-internship))
 
 ---
